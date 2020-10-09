@@ -23,32 +23,60 @@ h1 {
 }
 img src {
   place-items: center;
-  background-color: purple;
-  
-     }
-.navbar {
-  background-color: #FFFFFF;
-  display: flex;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  font-family: 'Source Sans Pro', sans-serif;
-  
-}
-
-.navbar a {
-  color: #FFFFFF;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  width: 7em;
-}
-
-.navbar a:hover {
-  background-color: #FFFFFF;
-  color: #DFE0E2;
-}
+  background-color: purple;  
    </stlye>
+  
+  <body>
+    <ul>
+      <li> Home </li>
+      <li> Apps </li>
+      <li> Art </li>
+      <li> Connect </li>
+     </ul>
+   </body>
+  
+  <stlye>
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #C5CAE9
+  width: 1;
+}
+
+li {
+  padding: 20px 50px;
+  display: inline;
+  float: left;
+}
+
+li.active {
+  padding: 20px 50px;
+  display: inline;
+  float: left;
+}
+
+li a:hover {
+ background-color: #C5CAE9
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+
+li.active:last-child {
+  border-right: none;
+}
+
+li a:hover {
+  background-color: #9FA8DA;
+}
+
+ul.active {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+</style>
 </html>
