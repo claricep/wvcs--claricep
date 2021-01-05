@@ -1,13 +1,13 @@
 div.sticky {
-  color: #607D8B;
+  color: #212121;
   position: sticky;
-  background-color: #EDE7F6;
+  background-color: #9FA8DA;
   border: 2px #B39DDB;
   max-width: 500px;
   top: 0; 
   left: 35%;
   text-align: center;
-  line-height: 10;
+  line-height: 2;
 }
      
 img src {
