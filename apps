@@ -1,0 +1,21 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1> Clarice Park's Website </h1>
+<ul>
+      <li><a href ="index.html"> Home </a></li>
+      <li><a href ="apps.html"> Apps 
+     </ul>
+     
+     
+    <img src="artifact.jpg" alt="my artifact" width= "490">
+<iframe src="https://scratch.mit.edu/projects/427557295/embed" allowtransparency="true" width="485 "height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<iframe width="352" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/cjqqFJeIWx8qFs3NkBX_rUAmmJg3N-gZotr2RHml700/embed"></iframe>
+
+<iframe width="352" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/DZdlFAxadFkwIuaP5qJXuJe6lU-yxKLgDADr3EPedJQ/embed"></iframe>">
+
+</body>
+</html>
