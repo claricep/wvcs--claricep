@@ -13,7 +13,7 @@ div.sticky {
   line-height: 5;
   left: 32%;
   font-family: Inconsolata, sans-serif;
-  border: 5px dashed #EFEBE9;
+  border: 5px dashed #FFF3E0;
 }
      
 img src {
@@ -50,5 +50,5 @@ li a {
 }
 
 li a:hover {
-  background-color: #111
+  background-color: #5C6BC0
 }
