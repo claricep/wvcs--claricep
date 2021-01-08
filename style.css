@@ -13,6 +13,7 @@ div.sticky {
   line-height: 5;
   left: 32%;
   font-family: Inconsolata, sans-serif;
+  border: 5px dashed #EFEBE9;
 }
      
 img src {
