@@ -21,6 +21,7 @@ img src {
 }
  
    ul {
+     <br>
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -29,6 +30,7 @@ img src {
     position: fixed;
   width: 100%;
   left: 0;
+     <br>
 }
 
 li {
