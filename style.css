@@ -2,6 +2,7 @@ body{
 background: #C5CAE9
 }
 
+<!--------------- HEADER STYLE --------------->
 div.sticky {
   color: #212121;
   position: sticky;
@@ -21,6 +22,7 @@ img src {
   background-color: #EDE7F6;  
 }
  
+<!--------------- NAV BAR STYLE --------------->
    ul {
   list-style-type: none;
   margin: 0;
