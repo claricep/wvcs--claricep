@@ -7,7 +7,7 @@ div.sticky {
   position: sticky;
   background-color: #F9FBE7;
   max-width: 450px;
-  top: 0; 
+  top: 10; 
   text-align: center;
   line-height: 3;
   left: 31%;
